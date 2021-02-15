@@ -13,8 +13,23 @@
 * Java - Proficient
 * Python - Beginner
 
-## Frameworks
+---
+
+* Swedish - Native
+* English - Fluent
+* German - Beginner
+
+## 🏗Frameworks☁
 * .NET
 * Unity
 * Spigot-API
+
+## 🧰Tools🧰
 * Git
+* Rider (C# IDE)
+* Intellij (Java IDE)
+* Eclipse (Java IDE)
+* PyCharm (Python IDE)
+* CLion (C/C++ IDE)
+* Visual Studio (C/C++/C# IDE)
+* VSCode
