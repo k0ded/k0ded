@@ -2,10 +2,10 @@
 ![My Stats](https://github-readme-stats.vercel.app/api?username=k0ded&show_icons=true&theme=calm)
 
 ## 🛠Current Projects🛠
-* 2D Game Engine (C++)
+* 2D Game Engine (C++) -- CURRENT ✔
 * Punchman (C# Game) -- CURRENT ✔
 * Chess Plugin (Java Spigot-API)
-* Website (Next.JS) -- CURRENT ✔
+* Website (Next.JS)
 
 ## Languages
 * C++ - Beginner
