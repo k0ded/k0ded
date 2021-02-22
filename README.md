@@ -2,10 +2,10 @@
 ![My Stats](https://github-readme-stats.vercel.app/api?username=k0ded&show_icons=true&theme=calm)
 
 ## 🛠Current Projects🛠
-* Music Beacon (Java Android) -- CURRENT ✔
-* 2D Game Engine (C#) -- CURRENT ✔
+* Music Beacon (Java Android) -- CURRENT 
+* 2D Game Engine (C#) -- CURRENT 
 * Chess Plugin (Java Spigot-API)
-* Website (Next.JS)
+* Website (React) -- CURRENT ✔
 
 ## 🛠Recent Projects🛠
 * Punchman (C# Game) -- [Released](https://github.com/olchyk98/punchman/releases/tag/1.0)
