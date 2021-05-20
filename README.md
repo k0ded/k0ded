@@ -12,6 +12,7 @@
 * C++ - Beginner
 * C# - Proficient
 * Java - Proficient
+* Kotlin - Proficient
 * Python - Beginner
 
 ---
@@ -23,6 +24,7 @@
 ## 🏗Frameworks☁
 * .NET
 * Unity
+* JDA
 * Spigot-API
 
 ## 🧰Tools🧰
