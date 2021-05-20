@@ -2,8 +2,6 @@
 ![My Stats](https://github-readme-stats.vercel.app/api?username=k0ded&show_icons=true&theme=calm)
 
 ## 🛠Current Projects🛠
-* Music Beacon (Java Android) -- CURRENT 
-* 2D Game Engine (C#) -- CURRENT 
 * Chess Plugin (Java Spigot-API)
 * Website (React) -- CURRENT ✔
 
