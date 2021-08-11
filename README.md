@@ -2,8 +2,7 @@
 ![My Stats](https://github-readme-stats.vercel.app/api?username=k0ded&show_icons=true&theme=calm)
 
 ## 🛠Current Projects🛠
-* Chess Plugin (Java Spigot-API)
-* Website (React) -- CURRENT ✔
+* Sailaway Games -- CURRENT ✔
 
 ## 🛠Recent Projects🛠
 * Punchman (C# Game) -- [Released](https://github.com/olchyk98/punchman/releases/tag/1.0)
