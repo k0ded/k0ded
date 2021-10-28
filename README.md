@@ -26,6 +26,8 @@
 * Unity
 * JDA
 * Spigot-API
+* discordgo
+* MonoGame
 
 ## 🧰Tools🧰
 * Git
