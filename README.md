@@ -8,11 +8,12 @@
 * Punchman (C# Game) -- [Released](https://github.com/olchyk98/punchman/releases/tag/1.0)
 
 ## Languages
-* C++ - Beginner
-* C# - Proficient
-* Java - Proficient
-* Kotlin - Proficient
-* Python - Beginner
+* C#
+* Java
+* Kotlin
+* GoLang
+* Python
+* C++
 
 ---
 
@@ -30,6 +31,7 @@
 * Git
 * Rider (C# IDE)
 * Intellij (Java IDE)
+* GoLand (Go IDE)
 * Eclipse (Java IDE)
 * PyCharm (Python IDE)
 * CLion (C/C++ IDE)
