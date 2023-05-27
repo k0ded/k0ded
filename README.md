@@ -11,7 +11,6 @@
 * C#
 * Java
 * Kotlin
-* GoLang
 * Python
 * C++
 
@@ -24,16 +23,14 @@
 ## 🏗Frameworks☁
 * .NET
 * Unity
+* MonoGame
 * JDA
 * Spigot-API
-* discordgo
-* MonoGame
 
 ## 🧰Tools🧰
 * Git
 * Rider (C# IDE)
 * Intellij (Java IDE)
-* GoLand (Go IDE)
 * Eclipse (Java IDE)
 * PyCharm (Python IDE)
 * CLion (C/C++ IDE)
